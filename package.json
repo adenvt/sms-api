@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "description": "Simple SMS API Using MTQQ and Android Mobile",
+  "main": "index.js",
+  "author": "Ade Novid",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mqtt": "^2.14.0"
+  }
+}
